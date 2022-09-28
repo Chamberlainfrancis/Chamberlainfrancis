@@ -14,7 +14,8 @@ I am enthusiastic, outgoing, and ready to work. I'm the guy if you need someone 
 
 - :zap: In my free time I read Business books, tech articles and I play video games. 
 
-- :baby_chick: Follow me on twitter [@freesou_l](https://twitter.com/freesou_l) I put out awesome content.
+- Follow me on twitter [@freesou_l](https://twitter.com/freesou_l)
+- on Linkedin, [@chamberlainfrancis](https://www.linkedin.com/in/chamberlainfrancis)
 
 
 
