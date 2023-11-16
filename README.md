@@ -1,20 +1,19 @@
 ### Chamberlain Francis
 
-TECH STACK: JavaScript | HTML | CSS | SCSS | Reactjs | Next.js | MySQL | PHP | Working hard to master Nodejs
+TECH STACK: JavaScript | TypeScript | PHP | Mongo | Sql
 
-I am a developer who loves to build software that solves problems and has an impact on its users. 
+I'm the guy if you need someone to help build your product. I am enthusiastic, outgoing, and ready to work.
 
-I focus more of my energy on front-end software engineering and development because I love beauty and care about user experience.
+- :telescope: Built a Community where you can satisfy your curiosity and share your ideas with people.
 
-I am enthusiastic, outgoing, and ready to work. I'm the guy if you need someone to help build your product.
-
-- :telescope: Currently building a Community where you can satisfy your curiosity and share your ideas with people.
+- :telescope: Over 1k happy users and counting, on [whatsGain](https://play.google.com/store/apps/details?id=app.vercel.wsv.twa)
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time I read Business books, tech articles and I play video games. 
 
 - Follow me on twitter [@freesou_l](https://twitter.com/freesou_l)
+
 - on Linkedin, [@chamberlainfrancis](https://www.linkedin.com/in/chamberlainfrancis)
 
 
