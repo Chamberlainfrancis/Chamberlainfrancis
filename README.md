@@ -1,8 +1,6 @@
 ### Chamberlain Francis
 
-TECH STACK: JavaScript | TypeScript | PHP | Mongo | Sql
-
-I'm the guy if you need someone to help build your product. I am enthusiastic, outgoing, and ready to work.
+I'm the guy if you need someone to help build your product. I am enthusiastic, competitive, and outgoing.
 
 - :telescope: Built a Community where you can satisfy your curiosity and share your ideas with people.
 
